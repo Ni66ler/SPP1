@@ -1,0 +1,106 @@
+{
+  "Threads": [
+    {
+      "Id": 1,
+      "Time": 3237,
+      "Methods": [
+        {
+          "Name": "firstMethod",
+          "ClassName": "Example",
+          "Time": 3237,
+          "Methods": [
+            {
+              "Name": "thirdMethod",
+              "ClassName": "Example",
+              "Time": 302,
+              "Methods": null
+            },
+            {
+              "Name": "secondMethod",
+              "ClassName": "Example",
+              "Time": 2824,
+              "Methods": [
+                {
+                  "Name": "fourthMethod",
+                  "ClassName": "Example",
+                  "Time": 400,
+                  "Methods": null
+                },
+                {
+                  "Name": "fifthMethod",
+                  "ClassName": "Example",
+                  "Time": 1100,
+                  "Methods": [
+                    {
+                      "Name": "sixthMethod",
+                      "ClassName": "Example",
+                      "Time": 600,
+                      "Methods": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 5,
+      "Time": 1120,
+      "Methods": [
+        {
+          "Name": "fifthMethod",
+          "ClassName": "Example",
+          "Time": 1120,
+          "Methods": [
+            {
+              "Name": "sixthMethod",
+              "ClassName": "Example",
+              "Time": 618,
+              "Methods": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 6,
+      "Time": 1120,
+      "Methods": [
+        {
+          "Name": "fifthMethod",
+          "ClassName": "Example",
+          "Time": 1120,
+          "Methods": [
+            {
+              "Name": "sixthMethod",
+              "ClassName": "Example",
+              "Time": 618,
+              "Methods": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 7,
+      "Time": 1119,
+      "Methods": [
+        {
+          "Name": "fifthMethod",
+          "ClassName": "Example",
+          "Time": 1119,
+          "Methods": [
+            {
+              "Name": "sixthMethod",
+              "ClassName": "Example",
+              "Time": 617,
+              "Methods": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
